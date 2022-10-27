@@ -14,7 +14,7 @@
   ### Once I've Used ✏️
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black"/> 
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img alt="Nuxt" src ="https://img.shields.io/badge/Nuxt.js-00DC82.svg?&style=for-the-badge&logo=Nuxt&logoColor=white"/>
+  <img alt="Nuxt.js" src ="https://img.shields.io/badge/nuxt-00DC82.svg?&style=for-the-badge&logo=Nuxt&logoColor=white"/>
   <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/>
   <img alt="Nest" src ="https://img.shields.io/badge/Nest-E0234E.svg?&style=for-the-badge&logo=NestJs&logoColor=white"/>
