@@ -5,7 +5,6 @@
   
   ### Dong Sun 👍
   
-  <a href = "https://velog.io/@le12352"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> 
   <a href = "https://bit.ly/3zl6baa"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://solved.ac/le12352"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=le12352"/></a>
   
