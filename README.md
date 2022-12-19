@@ -10,7 +10,7 @@
   <a href="https://solved.ac/le12352"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=le12352"/></a>
   
   ---
-  
+   
   ### Once I've Used ✏️
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black"/> 
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
