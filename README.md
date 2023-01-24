@@ -21,4 +21,5 @@
   <img alt="Nest.js" src ="https://img.shields.io/badge/Nest.js-E0234E.svg?&style=for-the-badge&logo=NestJs&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  
 </div>
