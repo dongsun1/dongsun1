@@ -17,7 +17,7 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img alt="Nuxt.js" src ="https://img.shields.io/badge/Nuxt.js-00DC82.svg?&style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img alt="React Native" src ="https://img.shields.io/badge/ReactNative-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/>
   <img alt="Nest.js" src ="https://img.shields.io/badge/Nest.js-E0234E.svg?&style=for-the-badge&logo=NestJs&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
