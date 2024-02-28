@@ -6,7 +6,6 @@
   
   ### Dong Sun 👍
   
-<a href = "https://dongsun1.dev"><img src="https://img.shields.io/badge/-Blog-black"/></a>
 <a href = "https://bit.ly/3zl6baa"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://solved.ac/le12352"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=le12352"/></a>
 
