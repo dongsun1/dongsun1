@@ -5,8 +5,6 @@
 
 **[buffstudio.co.kr](https://buffstudio.co.kr)** · [만든 것](https://buffstudio.co.kr/work/) · [문의](https://buffstudio.co.kr/contact/)
 
-<p><a href="https://buffstudio.co.kr"><img alt="버프 스튜디오" src="https://img.shields.io/badge/버프_스튜디오-12D8CC?style=flat-square&logoColor=181818"></a> <a href="https://bit.ly/3zl6baa"><img alt="Notion" src="https://img.shields.io/badge/Notion-181818?style=flat-square&logo=notion&logoColor=white"></a> <a href="https://solved.ac/le12352"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=le12352"></a></p>
-
 ---
 
 #### 주로 씁니다
