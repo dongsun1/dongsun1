@@ -5,7 +5,10 @@
   <img align="right" style="height: 250px" width="450px" src="https://github-readme-stats.vercel.app/api?username=dongsun1"/>
   
   ### Dong Sun 👍
-  
+
+  광주에서 앱·웹·서버를 만듭니다 — [버프 스튜디오](https://buffstudio.co.kr)
+
+<a href="https://buffstudio.co.kr"><img src="https://img.shields.io/badge/버프_스튜디오-12D8CC?style=flat-square&logoColor=white"/></a>
 <a href = "https://bit.ly/3zl6baa"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://solved.ac/le12352"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=le12352"/></a>
 
