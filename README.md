@@ -1,12 +1,35 @@
 ### 김동선 · Dong Sun
 
-광주에서 앱·웹·서버를 만듭니다. 기획부터 출시와 운영까지 한 팀에서 이어서 진행합니다.
-매일 5만 명이 쓰는 서비스를 만들고, 직접 운영하고 있습니다.
+프론트엔드 개발자입니다. 스마트시티 관제 대시보드로 시작해,
+지금은 **매일 5만 명이 쓰는 리워드 광고 서비스**의 프론트엔드를 맡고 있습니다.
+사용자 앱 · 광고 지면 · 광고주 플랫폼 세 축을 만들고 운영합니다.
 
-**[buffstudio.co.kr](https://buffstudio.co.kr)** · [만든 것](https://buffstudio.co.kr/work/) · [문의](https://buffstudio.co.kr/contact/)
+`React` `TypeScript` `Next.js` `React Native`
 
 ---
 
-#### 주로 씁니다
+#### 만들고 있는 것
 
-<p><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=181818"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=181818"> <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"></p>
+| | | |
+| --- | --- | --- |
+| **숏캐시** | 리워드 앱 · DAU 5만 · 화면 64개 | [Google Play](https://play.google.com/store/apps/details?id=com.pluscash) · [App Store](https://apps.apple.com/kr/app/id6474850803) |
+| **마케팅몰** | 광고주가 직접 집행하는 셀프서브 플랫폼 | [marketingmall.co.kr](https://marketingmall.co.kr) |
+| **오퍼월** | 우리 앱과 다른 회사 앱 양쪽에 들어가는 광고 지면 | 버즈빌 등 매체사 4곳과 연동 |
+| **밥알** | 성분을 읽어 당뇨·알러지 안심 식품을 골라주는 서비스 | [bab-r.com](https://bab-r.com) |
+| **강의콕** | 강사·교육기관 매칭 | [kok-it.com](https://kok-it.com) |
+
+#### 최근에 한 일
+
+- 배포 직후 서비스 전체가 **60초**로 멈춘 장애에서, DB CPU가 멀쩡해 보이는 상태로
+  **커넥션 풀 포화**를 찾아 **9ms**로 되돌렸습니다
+- 훅 하나 때문에 27개 페이지가 **빈 HTML**로 나가던 SSR 버그를 잡고,
+  랜딩 TBT를 **19.4초 → 40ms**로 줄였습니다
+- 관제 대시보드 **Lighthouse 30 → 90**, 공용 컴포넌트 라이브러리로 **중복 코드 40% 제거**
+- 테스트가 없던 코드에 **Vitest + RTL 49개**를 붙였습니다 — 실제로 터졌던 버그부터
+
+#### 저장소가 비어 있는 이유
+
+지금 만드는 코드는 **클라이언트 소유**이거나 운영 중인 서비스라 공개할 수 없습니다.
+코드에 대해 이야기가 필요하시면 편하게 연락 주세요 — 구조와 판단 근거를 직접 설명드리겠습니다.
+
+📮 le12352@gmail.com
