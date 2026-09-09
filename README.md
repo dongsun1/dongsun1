@@ -1,10 +1,12 @@
 ### 김동선 · Dong Sun
 
-프론트엔드 개발자입니다. 스마트시티 관제 대시보드로 시작해,
-지금은 **매일 5만 명이 쓰는 리워드 광고 서비스**의 프론트엔드를 맡고 있습니다.
-사용자 앱 · 광고 지면 · 광고주 플랫폼 세 축을 만들고 운영합니다.
+**만들고, 운영하고, 책임지는 풀스택 개발자입니다.**
 
-`React` `TypeScript` `Next.js` `React Native`
+앱·웹·서버·인프라를 한 사람이 이어서 진행합니다.
+스마트시티 관제 대시보드로 시작해, 지금은 **매일 5만 명이 쓰는 리워드 광고 서비스**를
+앱부터 인프라까지 맡고 있습니다. 개발하는 사람이 곧 판단하는 사람이라 방향 전환이 빠릅니다.
+
+`TypeScript` `React` `Next.js` `React Native` · `Node.js` `NestJS` `Prisma` `PostgreSQL` `Redis` · `AWS` `Cloudflare`
 
 ---
 
@@ -12,24 +14,26 @@
 
 | | | |
 | --- | --- | --- |
-| **숏캐시** | 리워드 앱 · DAU 5만 · 화면 64개 | [Google Play](https://play.google.com/store/apps/details?id=com.pluscash) · [App Store](https://apps.apple.com/kr/app/id6474850803) |
-| **마케팅몰** | 광고주가 직접 집행하는 셀프서브 플랫폼 | [marketingmall.co.kr](https://marketingmall.co.kr) |
-| **오퍼월** | 우리 앱과 다른 회사 앱 양쪽에 들어가는 광고 지면 | 버즈빌 등 매체사 4곳과 연동 |
+| **숏캐시** | 리워드 앱 · DAU 5만 · 앱/웹/서버/크롤링 7개 패키지 | [Google Play](https://play.google.com/store/apps/details?id=com.pluscash) · [App Store](https://apps.apple.com/kr/app/id6474850803) |
+| **마케팅몰** | 광고주가 직접 집행하는 셀프서브 플랫폼 · 결제·정산 | [marketingmall.co.kr](https://marketingmall.co.kr) |
+| **오퍼월** | 매체사 4곳과 양방향 연동한 광고 지면 | 버즈빌 등 |
 | **밥알** | 성분을 읽어 당뇨·알러지 안심 식품을 골라주는 서비스 | [bab-r.com](https://bab-r.com) |
-| **강의콕** | 강사·교육기관 매칭 | [kok-it.com](https://kok-it.com) |
+| **강의콕** | 강사·교육기관 매칭 · 결제·정산·실시간 채팅 | [kok-it.com](https://kok-it.com) |
 
 #### 최근에 한 일
 
 - 배포 직후 서비스 전체가 **60초**로 멈춘 장애에서, DB CPU가 멀쩡해 보이는 상태로
   **커넥션 풀 포화**를 찾아 **9ms**로 되돌렸습니다
+- 매체 연동 구간 **평균 초당 1,000건 · 피크 1,900건**(7주 누적 44억 건)을 처리하며
+  중복 제거·큐·캐시로 평균 응답을 **160ms → 9ms**로 줄였습니다
 - 훅 하나 때문에 27개 페이지가 **빈 HTML**로 나가던 SSR 버그를 잡고,
   랜딩 TBT를 **19.4초 → 40ms**로 줄였습니다
 - 관제 대시보드 **Lighthouse 30 → 90**, 공용 컴포넌트 라이브러리로 **중복 코드 40% 제거**
-- 테스트가 없던 코드에 **Vitest + RTL 49개**를 붙였습니다 — 실제로 터졌던 버그부터
+- AWS 청구서의 리전 간 전송 **월 $554**를 추적해, 압축이 꺼져 있던 설정값 하나에 도달했습니다
 
 #### 저장소가 비어 있는 이유
 
 지금 만드는 코드는 **클라이언트 소유**이거나 운영 중인 서비스라 공개할 수 없습니다.
 코드에 대해 이야기가 필요하시면 편하게 연락 주세요 — 구조와 판단 근거를 직접 설명드리겠습니다.
 
-📮 le12352@gmail.com
+📮 le12352@gmail.com · 🌐 [buffstudio.co.kr](https://buffstudio.co.kr)
