@@ -3,7 +3,7 @@
 **만들고, 운영하고, 책임지는 풀스택 개발자입니다.**
 
 앱·웹·서버·인프라를 한 사람이 이어서 진행합니다.
-스마트시티 관제 대시보드로 시작해, 지금은 **매일 5만 명이 쓰는 리워드 광고 서비스**를
+스마트시티 관제 대시보드로 시작해, 지금은 **회원 5만 명의 리워드 광고 서비스**를
 앱부터 인프라까지 맡고 있습니다. 개발하는 사람이 곧 판단하는 사람이라 방향 전환이 빠릅니다.
 
 `TypeScript` `React` `Next.js` `React Native` · `Node.js` `NestJS` `Prisma` `PostgreSQL` `Redis` · `AWS` `Cloudflare`
@@ -14,7 +14,7 @@
 
 | | | |
 | --- | --- | --- |
-| **숏캐시** | 리워드 앱 · DAU 5만 · 앱/웹/서버/크롤링 7개 패키지 | [Google Play](https://play.google.com/store/apps/details?id=com.pluscash) · [App Store](https://apps.apple.com/kr/app/id6474850803) |
+| **숏캐시** | 리워드 앱 · 회원 5만 · 앱/웹/서버/크롤링 7개 패키지 | [Google Play](https://play.google.com/store/apps/details?id=com.pluscash) · [App Store](https://apps.apple.com/kr/app/id6474850803) |
 | **마케팅몰** | 광고주가 직접 집행하는 셀프서브 플랫폼 · 결제·정산 | [marketingmall.co.kr](https://marketingmall.co.kr) |
 | **오퍼월** | 매체사 4곳과 양방향 연동한 광고 지면 | 버즈빌 등 |
 | **밥알** | 성분을 읽어 당뇨·알러지 안심 식품을 골라주는 서비스 | [bab-r.com](https://bab-r.com) |
